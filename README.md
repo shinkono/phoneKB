@@ -3,4 +3,4 @@ This is an application on a mobile device to use it as remote keyboard/mouse for
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the terms of the MIT license. See the LICENSE file in the repository for more information.
