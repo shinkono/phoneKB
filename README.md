@@ -1,4 +1,4 @@
-# phoneKB
+# phoneKB shinkono
 
 phoneKB is an Android keyboard app project aimed primarily for continuous incleasing and seamless customizability. The app is (to be) designed to provide users with a more efficient typing experience by actively explore a user/situation/learning-level-aware keyboard layout. 
 
